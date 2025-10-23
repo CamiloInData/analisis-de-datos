@@ -1,0 +1,33 @@
+# Archivos de advertencia y scripts auxiliares
+advertencia.py
+advertencia.txt
+mostrar_advertencia.bat
+desinstalar_advertencia_inicio.bat
+
+# Archivos temporales y de sistema
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Archivos de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+# Archivos de advertencia - no subir
+advertencia.py
+advertencia.txt
+mostrar_advertencia.batdesi
+nstalar_advertencia_inicio.bat
