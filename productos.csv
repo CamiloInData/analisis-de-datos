@@ -1,0 +1,10 @@
+Producto,Categoria,Cantidad,Precio
+Pan,Abarrotes,10,2000.0
+Leche,Lácteos,20,3500.0
+Huevos,Abarrotes,30,500.0
+Arroz,Abarrotes,15,2500.0
+Café,Bebidas,8,8000.0
+Jugo,Bebidas,7,
+Yogurt,Lácteos,10,2000.0
+Azúcar,Abarrotes,12,1500.0
+Galleta,Abarrotes,5,1200.0
